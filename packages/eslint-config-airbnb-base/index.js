@@ -15,3 +15,4 @@ module.exports = {
   },
   rules: {},
 };
+// комментарий 1
